@@ -1,0 +1,42 @@
+.container{
+    background-color: rgba(238, 241, 214, 0.37);
+    text-align: center;
+    width: 50%;
+
+}
+
+h1{
+    color:#35490d ;
+    
+}
+
+h2{
+    color: #161485;
+}
+
+p{
+    text-align: justify;
+}
+
+img{
+    text-align: center;
+}
+#img2{
+position: relative;
+bottom: 125px;
+}
+
+#img3{
+    position: relative;
+    left: 125px;
+    bottom: 194px;
+    }
+
+ul {
+    list-style-type: none;
+  }
+
+  .paragraph{
+      position: relative;
+      bottom: 130px;
+  }
